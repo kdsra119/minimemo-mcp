@@ -1,0 +1,16 @@
+Copyright (c) 2026 DaejiNae. All rights reserved.
+
+MiniMemo and the MiniMemo MCP bridge are proprietary software.
+
+You may view this source code for evaluation and interoperability
+purposes (for example, to connect your own AI tools to your own
+installation of MiniMemo). No other rights are granted.
+
+In particular, you may not redistribute, sublicense, sell, or
+incorporate this code, in whole or in part, into other products or
+services, and you may not use it to provide a competing notes or
+MCP bridge product.
+
+The MiniMemo application itself is distributed exclusively through
+the Microsoft Store. This repository is provided for documentation
+and transparency; it is not an open-source release.
