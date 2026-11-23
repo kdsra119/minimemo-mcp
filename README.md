@@ -54,6 +54,7 @@ Microsoft Store에서 무료로 설치할 수 있습니다: https://apps.microso
   }
 }
 ```
+서버를 소스로 직접 실행할 경우 Python 패키지 mcp 1.x가 필요합니다: pip install "mcp<2"
 
 ## 개인정보처리방침
 
@@ -72,3 +73,5 @@ MIT License 하에 배포됩니다.
 MiniMemo is a tiny notes app for Windows. Notes can be collapsed into title-only labels so they barely take up screen space, and the app is free on Microsoft Store: https://apps.microsoft.com/detail/9nz9b24ljcjm
 
 It includes a local-only, stdio MCP bridge with six tools — `notes_list`, `notes_search`, `notes_get` (read) and `notes_add`, `notes_archive`, `notes_activate` (write). There are no tools to edit or delete notes. Locked notes hide both their body and their title ("비밀 메모") from AI. Data stays in local files; there is no sync server. The free tier covers all note features plus read access for the first connected AI. Pro adds read access from every connected AI and write access, for a one-time ₩11,000 / $9.99 (not a subscription), with a 14-day full-feature trial before purchase. Connect an AI through the in-app guide for automatic setup, or add a `mcpServers` entry pointing at `minimemo_mcp.py`. Privacy policy: https://kdsra119.github.io/minimemo-docs/ · Licensed under the MIT License · Support: kdsra119@gmail.com
+
+Running the server from source requires the Python package mcp 1.x: pip install "mcp<2"
