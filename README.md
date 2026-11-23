@@ -1,4 +1,5 @@
 # 미니메모 (MiniMemo)
+[![kdsra119/minimemo-mcp MCP server](https://glama.ai/mcp/servers/kdsra119/minimemo-mcp/badges/score.svg)](https://glama.ai/mcp/servers/kdsra119/minimemo-mcp)
 
 Windows용 초소형 메모 앱입니다. 메모를 제목만 보이는 최소 상태(라벨)로 접어두면 화면을 거의 차지하지 않습니다. Microsoft Store에서 무료로 내려받을 수 있습니다.
 
